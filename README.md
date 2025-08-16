@@ -26,6 +26,6 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](YOUR-PORTFOLIO-LINK)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/bhargava-c-salian-263084308))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)]([YOUR-PORTFOLIO-LINK](https://Bhargava421.github.io/portfolio/))  
 
