@@ -4,7 +4,7 @@
 
 ### 💻 About Me
 - 🔭 Currently building **DevConnect** – a mini social platform for developers  
-- 🌱 Learning **React, TypeScript, and Tailwind CSS** in depth for placements  
+- 🌱 Learning **React, TypeScript, and Tailwind CSS**  
 - 📚 Exploring **DSA & System Design** to strengthen problem-solving skills  
 - 🔐 Passionate about **Cybersecurity + Process Mining** for insider threat detection  
 - 🏎️ Fun fact: Huge **Formula 1** fan (Team LH44 💜)  
